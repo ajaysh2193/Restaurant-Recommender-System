@@ -18,3 +18,8 @@
 - User-Item-Rating
 9 rating_final.csv
 
+## Results
+
+![result](https://user-images.githubusercontent.com/24571705/41271481-8a3197c6-6e2e-11e8-9230-1f15adf52c7b.PNG)
+
+
